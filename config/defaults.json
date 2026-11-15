@@ -22,7 +22,7 @@
     { "domain": "com.apple.dock", "key": "tilesize", "type": "int", "value": 36 },
 
     { "domain": "com.apple.screencapture", "key": "include-date", "type": "bool", "value": true },
-    { "domain": "com.apple.screencapture", "key": "location", "type": "string", "value": "${HOME}/Documents/screenshots" },
+    { "domain": "com.apple.screencapture", "key": "location", "type": "string", "value": "${HOME}/Documents/screenshots/current" },
     { "domain": "com.apple.screencapture", "key": "show-thumbnail", "type": "bool", "value": false },
     { "domain": "com.apple.screencapture", "key": "type", "type": "string", "value": "png" },
 
